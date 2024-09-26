@@ -1,6 +1,6 @@
 # Disease prediction AI using Streamlit
 
-This is my final project for my Artificial Intelligence course in my 3rd semester, credits to kaggle dataset
+This is my final project for my Artificial Intelligence course in my 3rd semester, credit to kaggle dataset
 
 
 # How to run
