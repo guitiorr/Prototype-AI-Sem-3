@@ -31,4 +31,5 @@ The lists of outputs are :
 - Accuracy, F1 Score
 - Prediction confidence
 - List of recommended things to do at home
-![image](https://github.com/user-attachments/assets/d90cde7b-7619-456b-8699-1081d0866d3a)
+![image](https://github.com/user-attachments/assets/732a9e05-e98e-4d87-af9d-cecdb941b1ec)
+
